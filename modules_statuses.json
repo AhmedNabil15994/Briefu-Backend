@@ -1,0 +1,23 @@
+{
+    "User": true,
+    "Authentication": true,
+    "Apps": true,
+    "Core": true,
+    "Setting": true,
+    "Authorization": true,
+    "Page": true,
+    "Company": true,
+    "DeviceToken": true,
+    "Package": true,
+    "Subscription": true,
+    "Attribute": true,
+    "Area": true,
+    "Job": true,
+    "Qualification": true,
+    "Course": true,
+    "Category": true,
+    "Catalog": true,
+    "Notification": true,
+    "Coupon": true,
+    "Report": true
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Qualification",
+    "alias": "qualification",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Qualification\\Providers\\QualificationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

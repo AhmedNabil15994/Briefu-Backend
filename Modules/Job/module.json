@@ -1,0 +1,15 @@
+{
+    "name": "Job",
+    "alias": "job",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Job\\Providers\\JobServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}
